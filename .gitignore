@@ -1,0 +1,24 @@
+# Ignore Jupyter notebook checkpoints
+**/.ipynb_checkpoints/
+
+# Ignore model pickle files
+*.pkl
+
+# Ignore Microsoft Word documents
+*.docx
+
+# Ignore PDFs
+*.pdf
+
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+
+# Optional: Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
